@@ -1,1 +1,1 @@
-#OTUS_Linux_2025
+# OTUS_Linux_2025
